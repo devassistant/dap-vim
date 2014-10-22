@@ -1,0 +1,11 @@
+package_name: vim
+version: 0.10.0dev
+license: GPLv2+
+authors: [Bohuslav Kabrda <bkabrda@redhat.com>, Tomas Radej <tradej@redhat.com>]
+homepage: https://github.com/devassistant/dap-vim
+summary: Vim snippet and assistant
+bugreports: https://github.com/devassistant/dap-vim/issues
+dependencies:
+  - common_args
+description: |
+    Installs and configures vim. Works as a mod assistant or a snippet, so you can use it form other assistants.
